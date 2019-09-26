@@ -7,5 +7,5 @@ Start here! Links to relevant code that aren't currently on this GitHub.
 * **Kevin Tan's Github https://github.com/kevmtan**
   * Mostly EEG & ECoG stuff, RSA for images from features extracted from computer vision algos
 
-* **Miriam Weaverdyck's fMRI analysis Github https://github.com/mweaverdyck/fmri-encoding-analyses
+* **Miriam Weaverdyck's fMRI analysis Github https://github.com/mweaverdyck/fmri-encoding-analyses**
   * Full RSA analysis of fMRI data, mostly in python and R
