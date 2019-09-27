@@ -5,7 +5,7 @@ Start here! Links to relevant code that aren't currently on this GitHub.
   * Parallelized SPM Dartel preprocessing pipeline, MR Tools for whole-brain multi-level regression, ROI extraction, other SPM things
 
 * **Kevin Tan's Github https://github.com/kevmtan**
-  * Mostly EEG & ECoG stuff, RSA for images from features extracted from computer vision algos
+  * Mostly EEG & ECoG stuff, RSA for images using features extracted from computer vision algos
 
 * **Miriam Weaverdyck's fMRI analysis Github https://github.com/mweaverdyck/fmri-encoding-analyses**
   * Full RSA analysis of fMRI data, mostly in python and R
