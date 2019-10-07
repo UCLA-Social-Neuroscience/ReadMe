@@ -9,3 +9,6 @@ Start here! Links to relevant code that aren't currently on this GitHub.
 
 * **Miriam Weaverdyck's fMRI analysis Github https://github.com/mweaverdyck/fmri-encoding-analyses**
   * Full RSA analysis of fMRI data, mostly in python and R
+
+* **CSN Labs Github https://github.com/CSNLab**
+  * Miscellaneous tools for BIDS and fMRI analyses, and some other tools for behavioral studies (PsychoPy, SONA)
