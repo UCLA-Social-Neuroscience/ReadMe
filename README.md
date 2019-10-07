@@ -14,4 +14,4 @@ Start here! Links to relevant code that aren't currently on this GitHub.
   * Full RSA analysis of fMRI data, mostly in python and R
 
 * **CSN Labs Github https://github.com/CSNLab**
-  * Miscellaneous tools for BIDS and fMRI analyses, and some other tools for behavioral studies (PsychoPy, SONA)
+  * [Miscellaneous tools for BIDS and fMRI analyses](https://github.com/CSNLab/misc-tools), and some other tools for behavioral studies ([PsychoPy](https://github.com/MetaD/PsychoPy-Starter-Kit), [SONA](https://github.com/MetaD/SONA2Calendar))
